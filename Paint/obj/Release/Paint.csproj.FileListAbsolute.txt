@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\bin\Release\Paint.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\bin\Release\Paint.exe
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\bin\Release\Paint.pdb
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\MainWindow.baml
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\MainWindow.g.cs
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\App.g.cs
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\Paint_MarkupCompile.cache
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\Paint.g.resources
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\Paint.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\Paint.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\Paint.exe
+c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\Paint.pdb

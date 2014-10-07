@@ -1,0 +1,2074 @@
+Event start at 07.10.2014 20:08:46
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:46
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:47
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:47
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:49
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:49
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:51
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:51
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:52
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:52
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:53
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:53
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:53
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:53
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:54
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:54
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:54
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:54
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:54
+HasPrevPoint = True
+Brush set at 07.10.2014 20:08:54
+Stroke completed at 07.10.2014 20:08:54
+Event start at 07.10.2014 20:08:56
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:56
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:56
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:56
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:57
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:57
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:57
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:57
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:57
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:57
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:58
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:58
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:58
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:58
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:58
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:58
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:58
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:58
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:58
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:58
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:59
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:59
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:59
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:59
+HasPrevPoint = True
+Event start at 07.10.2014 20:08:59
+HasPrevPoint = False
+Has point at 07.10.2014 20:08:59
+HasPrevPoint = True
+Event start at 07.10.2014 20:09:33
+HasPrevPoint = False
+Has point at 07.10.2014 20:09:33
+HasPrevPoint = True
+Event start at 07.10.2014 20:09:33
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:33
+Stroke completed at 07.10.2014 20:09:33
+Event start at 07.10.2014 20:09:33
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:33
+Stroke completed at 07.10.2014 20:09:33
+Event start at 07.10.2014 20:09:34
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:34
+Stroke completed at 07.10.2014 20:09:34
+Event start at 07.10.2014 20:09:34
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:34
+Stroke completed at 07.10.2014 20:09:34
+Event start at 07.10.2014 20:09:34
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:34
+Stroke completed at 07.10.2014 20:09:34
+Event start at 07.10.2014 20:09:35
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:35
+Stroke completed at 07.10.2014 20:09:35
+Event start at 07.10.2014 20:09:35
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:35
+Stroke completed at 07.10.2014 20:09:35
+Event start at 07.10.2014 20:09:36
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:36
+Stroke completed at 07.10.2014 20:09:36
+Event start at 07.10.2014 20:09:36
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:36
+Stroke completed at 07.10.2014 20:09:36
+Event start at 07.10.2014 20:09:36
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:36
+Stroke completed at 07.10.2014 20:09:36
+Event start at 07.10.2014 20:09:36
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:36
+Stroke completed at 07.10.2014 20:09:36
+Event start at 07.10.2014 20:09:37
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:37
+Stroke completed at 07.10.2014 20:09:37
+Event start at 07.10.2014 20:09:37
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:37
+Stroke completed at 07.10.2014 20:09:37
+Event start at 07.10.2014 20:09:37
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:37
+Stroke completed at 07.10.2014 20:09:37
+Event start at 07.10.2014 20:09:38
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:38
+Stroke completed at 07.10.2014 20:09:38
+Event start at 07.10.2014 20:09:38
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:38
+Stroke completed at 07.10.2014 20:09:38
+Event start at 07.10.2014 20:09:38
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:38
+Stroke completed at 07.10.2014 20:09:38
+Event start at 07.10.2014 20:09:39
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:39
+Stroke completed at 07.10.2014 20:09:39
+Event start at 07.10.2014 20:09:39
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:39
+Stroke completed at 07.10.2014 20:09:39
+Event start at 07.10.2014 20:09:39
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:39
+Stroke completed at 07.10.2014 20:09:39
+Event start at 07.10.2014 20:09:39
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:39
+Stroke completed at 07.10.2014 20:09:39
+Event start at 07.10.2014 20:09:40
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:40
+Stroke completed at 07.10.2014 20:09:40
+Event start at 07.10.2014 20:09:41
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:41
+Stroke completed at 07.10.2014 20:09:41
+Event start at 07.10.2014 20:09:41
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:41
+Stroke completed at 07.10.2014 20:09:41
+Event start at 07.10.2014 20:09:41
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:41
+Stroke completed at 07.10.2014 20:09:41
+Event start at 07.10.2014 20:09:42
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:42
+Stroke completed at 07.10.2014 20:09:42
+Event start at 07.10.2014 20:09:42
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:42
+Stroke completed at 07.10.2014 20:09:42
+Event start at 07.10.2014 20:09:42
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:42
+Stroke completed at 07.10.2014 20:09:42
+Event start at 07.10.2014 20:09:42
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:42
+Stroke completed at 07.10.2014 20:09:42
+Event start at 07.10.2014 20:09:42
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:42
+Stroke completed at 07.10.2014 20:09:42
+Event start at 07.10.2014 20:09:43
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:43
+Stroke completed at 07.10.2014 20:09:43
+Event start at 07.10.2014 20:09:43
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:43
+Stroke completed at 07.10.2014 20:09:43
+Event start at 07.10.2014 20:09:43
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:43
+Stroke completed at 07.10.2014 20:09:43
+Event start at 07.10.2014 20:09:44
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:44
+Stroke completed at 07.10.2014 20:09:44
+Event start at 07.10.2014 20:09:44
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:44
+Stroke completed at 07.10.2014 20:09:44
+Event start at 07.10.2014 20:09:44
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:44
+Stroke completed at 07.10.2014 20:09:44
+Event start at 07.10.2014 20:09:45
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:45
+Stroke completed at 07.10.2014 20:09:45
+Event start at 07.10.2014 20:09:45
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:45
+Stroke completed at 07.10.2014 20:09:45
+Event start at 07.10.2014 20:09:45
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:45
+Stroke completed at 07.10.2014 20:09:46
+Event start at 07.10.2014 20:09:46
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:46
+Stroke completed at 07.10.2014 20:09:46
+Event start at 07.10.2014 20:09:46
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:46
+Stroke completed at 07.10.2014 20:09:46
+Event start at 07.10.2014 20:09:47
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:47
+Stroke completed at 07.10.2014 20:09:47
+Event start at 07.10.2014 20:09:47
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:47
+Stroke completed at 07.10.2014 20:09:47
+Event start at 07.10.2014 20:09:47
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:47
+Stroke completed at 07.10.2014 20:09:47
+Event start at 07.10.2014 20:09:48
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:48
+Stroke completed at 07.10.2014 20:09:48
+Event start at 07.10.2014 20:09:48
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:48
+Stroke completed at 07.10.2014 20:09:48
+Event start at 07.10.2014 20:09:48
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:48
+Stroke completed at 07.10.2014 20:09:48
+Event start at 07.10.2014 20:09:49
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:49
+Stroke completed at 07.10.2014 20:09:49
+Event start at 07.10.2014 20:09:50
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:50
+Stroke completed at 07.10.2014 20:09:50
+Event start at 07.10.2014 20:09:50
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:50
+Stroke completed at 07.10.2014 20:09:50
+Event start at 07.10.2014 20:09:50
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:50
+Stroke completed at 07.10.2014 20:09:50
+Event start at 07.10.2014 20:09:51
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:51
+Stroke completed at 07.10.2014 20:09:51
+Event start at 07.10.2014 20:09:51
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:51
+Stroke completed at 07.10.2014 20:09:51
+Event start at 07.10.2014 20:09:51
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:51
+Stroke completed at 07.10.2014 20:09:51
+Event start at 07.10.2014 20:09:52
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:52
+Stroke completed at 07.10.2014 20:09:52
+Event start at 07.10.2014 20:09:52
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:52
+Stroke completed at 07.10.2014 20:09:52
+Event start at 07.10.2014 20:09:52
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:52
+Stroke completed at 07.10.2014 20:09:52
+Event start at 07.10.2014 20:09:52
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:52
+Stroke completed at 07.10.2014 20:09:52
+Event start at 07.10.2014 20:09:53
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:53
+Stroke completed at 07.10.2014 20:09:53
+Event start at 07.10.2014 20:09:53
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:53
+Stroke completed at 07.10.2014 20:09:53
+Event start at 07.10.2014 20:09:53
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:53
+Stroke completed at 07.10.2014 20:09:53
+Event start at 07.10.2014 20:09:54
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:54
+Stroke completed at 07.10.2014 20:09:54
+Event start at 07.10.2014 20:09:54
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:54
+Stroke completed at 07.10.2014 20:09:54
+Event start at 07.10.2014 20:09:54
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:54
+Stroke completed at 07.10.2014 20:09:54
+Event start at 07.10.2014 20:09:54
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:54
+Stroke completed at 07.10.2014 20:09:54
+Event start at 07.10.2014 20:09:55
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:55
+Stroke completed at 07.10.2014 20:09:55
+Event start at 07.10.2014 20:09:55
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:55
+Stroke completed at 07.10.2014 20:09:55
+Event start at 07.10.2014 20:09:55
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:55
+Stroke completed at 07.10.2014 20:09:55
+Event start at 07.10.2014 20:09:55
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:55
+Stroke completed at 07.10.2014 20:09:55
+Event start at 07.10.2014 20:09:56
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:56
+Stroke completed at 07.10.2014 20:09:56
+Event start at 07.10.2014 20:09:56
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:56
+Stroke completed at 07.10.2014 20:09:56
+Event start at 07.10.2014 20:09:56
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:56
+Stroke completed at 07.10.2014 20:09:56
+Event start at 07.10.2014 20:09:57
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:57
+Stroke completed at 07.10.2014 20:09:57
+Event start at 07.10.2014 20:09:57
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:57
+Stroke completed at 07.10.2014 20:09:57
+Event start at 07.10.2014 20:09:57
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:57
+Stroke completed at 07.10.2014 20:09:57
+Event start at 07.10.2014 20:09:57
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:57
+Stroke completed at 07.10.2014 20:09:57
+Event start at 07.10.2014 20:09:58
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:58
+Stroke completed at 07.10.2014 20:09:58
+Event start at 07.10.2014 20:09:58
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:58
+Stroke completed at 07.10.2014 20:09:58
+Event start at 07.10.2014 20:09:58
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:58
+Stroke completed at 07.10.2014 20:09:58
+Event start at 07.10.2014 20:09:59
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:59
+Stroke completed at 07.10.2014 20:09:59
+Event start at 07.10.2014 20:09:59
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:59
+Stroke completed at 07.10.2014 20:09:59
+Event start at 07.10.2014 20:09:59
+HasPrevPoint = True
+Brush set at 07.10.2014 20:09:59
+Stroke completed at 07.10.2014 20:09:59
+Event start at 07.10.2014 20:10:02
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:02
+Stroke completed at 07.10.2014 20:10:02
+Event start at 07.10.2014 20:10:02
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:02
+Stroke completed at 07.10.2014 20:10:02
+Event start at 07.10.2014 20:10:02
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:02
+Stroke completed at 07.10.2014 20:10:02
+Event start at 07.10.2014 20:10:02
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:02
+Stroke completed at 07.10.2014 20:10:02
+Event start at 07.10.2014 20:10:03
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:03
+Stroke completed at 07.10.2014 20:10:03
+Event start at 07.10.2014 20:10:03
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:03
+Stroke completed at 07.10.2014 20:10:03
+Event start at 07.10.2014 20:10:03
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:03
+Stroke completed at 07.10.2014 20:10:03
+Event start at 07.10.2014 20:10:03
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:03
+Stroke completed at 07.10.2014 20:10:03
+Event start at 07.10.2014 20:10:03
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:03
+Stroke completed at 07.10.2014 20:10:03
+Event start at 07.10.2014 20:10:04
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:04
+Stroke completed at 07.10.2014 20:10:04
+Event start at 07.10.2014 20:10:04
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:04
+Stroke completed at 07.10.2014 20:10:04
+Event start at 07.10.2014 20:10:04
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:04
+Stroke completed at 07.10.2014 20:10:04
+Event start at 07.10.2014 20:10:04
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:04
+Stroke completed at 07.10.2014 20:10:04
+Event start at 07.10.2014 20:10:04
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:04
+Stroke completed at 07.10.2014 20:10:04
+Event start at 07.10.2014 20:10:04
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:04
+Stroke completed at 07.10.2014 20:10:04
+Event start at 07.10.2014 20:10:05
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:05
+Stroke completed at 07.10.2014 20:10:05
+Event start at 07.10.2014 20:10:05
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:05
+Stroke completed at 07.10.2014 20:10:05
+Event start at 07.10.2014 20:10:05
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:05
+Stroke completed at 07.10.2014 20:10:05
+Event start at 07.10.2014 20:10:05
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:05
+Stroke completed at 07.10.2014 20:10:05
+Event start at 07.10.2014 20:10:05
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:05
+Stroke completed at 07.10.2014 20:10:05
+Event start at 07.10.2014 20:10:05
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:05
+Stroke completed at 07.10.2014 20:10:05
+Event start at 07.10.2014 20:10:05
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:05
+Stroke completed at 07.10.2014 20:10:05
+Event start at 07.10.2014 20:10:06
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:06
+Stroke completed at 07.10.2014 20:10:06
+Event start at 07.10.2014 20:10:06
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:06
+Stroke completed at 07.10.2014 20:10:06
+Event start at 07.10.2014 20:10:06
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:06
+Stroke completed at 07.10.2014 20:10:06
+Event start at 07.10.2014 20:10:06
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:06
+Stroke completed at 07.10.2014 20:10:06
+Event start at 07.10.2014 20:10:06
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:06
+Stroke completed at 07.10.2014 20:10:06
+Event start at 07.10.2014 20:10:06
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:06
+Stroke completed at 07.10.2014 20:10:06
+Event start at 07.10.2014 20:10:07
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:07
+Stroke completed at 07.10.2014 20:10:07
+Event start at 07.10.2014 20:10:49
+HasPrevPoint = True
+Brush set at 07.10.2014 20:10:49
+Stroke completed at 07.10.2014 20:10:49
+Event start at 07.10.2014 20:11:02
+HasPrevPoint = False
+Has point at 07.10.2014 20:11:02
+HasPrevPoint = True
+Event start at 07.10.2014 20:11:03
+HasPrevPoint = False
+Has point at 07.10.2014 20:11:03
+HasPrevPoint = True
+Event start at 07.10.2014 20:11:04
+HasPrevPoint = False
+Has point at 07.10.2014 20:11:04
+HasPrevPoint = True
+Event start at 07.10.2014 20:11:04
+HasPrevPoint = False
+Has point at 07.10.2014 20:11:04
+HasPrevPoint = True
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = False
+Has point at 07.10.2014 20:11:23
+HasPrevPoint = True
+Event start at 07.10.2014 20:11:23
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:24
+Event start at 07.10.2014 20:11:24
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:24
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:25
+Stroke completed at 07.10.2014 20:11:25
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:25
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = False
+Has point at 07.10.2014 20:11:26
+HasPrevPoint = True
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:26
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:26
+Stroke completed at 07.10.2014 20:11:26
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:27
+Event start at 07.10.2014 20:11:27
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:27
+Stroke completed at 07.10.2014 20:11:28
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:28
+Stroke completed at 07.10.2014 20:11:28
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:28
+Stroke completed at 07.10.2014 20:11:28
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:28
+Stroke completed at 07.10.2014 20:11:28
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:28
+Stroke completed at 07.10.2014 20:11:28
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:28
+Stroke completed at 07.10.2014 20:11:28
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:28
+Stroke completed at 07.10.2014 20:11:28
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:28
+Stroke completed at 07.10.2014 20:11:28
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:28
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = False
+Has point at 07.10.2014 20:11:29
+HasPrevPoint = True
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:29
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:29
+Stroke completed at 07.10.2014 20:11:29
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:30
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:30
+Stroke completed at 07.10.2014 20:11:30
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = True
+Brush set at 07.10.2014 20:11:31
+Stroke completed at 07.10.2014 20:11:31
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:31
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:33
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:33
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:33
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:33
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:33
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:33
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:33
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:33
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:34
+HasPrevPoint = False
+Event start at 07.10.2014 20:11:34
+HasPrevPoint = False

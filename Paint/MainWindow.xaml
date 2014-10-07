@@ -1,0 +1,23 @@
+﻿<Window x:Class="Paint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid x:Name="grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas x:Name="FirstLayer" Grid.Column="0" Background="Transparent" MouseMove="Canvas_MouseDown" MouseUp="Canvas_MouseUp"/>
+        <Canvas x:Name="SecondLayer" Grid.Column="0" Background="Transparent" MouseMove="Canvas_MouseDown" MouseUp="Canvas_MouseUp"/>
+        <Canvas x:Name="ThirdLayer" Grid.Column="0" Background="Transparent" MouseMove="Canvas_MouseDown" MouseUp="Canvas_MouseUp"/>
+
+        <StackPanel Grid.Column="1" Orientation="Vertical" MouseEnter="LeavePaintArea">
+            <Button x:Name="FirstButton" Content="First" Height="50" Click="Button_OnClick"/>
+            <Button x:Name="SecondButton" Content="Second" Height="50" Click="Button_OnClick"/>
+            <Button x:Name="ThirdButton"  Content="Third" Height="50" Click="Button_OnClick"/>
+            <Button x:Name="Clear" Content="Clear All" Height="50" Click="ClearAllCanvas"></Button>
+            <TextBlock x:Name="currentControlTextBlock" FontSize="20"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>
