@@ -53,6 +53,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="LayerPanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -60,6 +64,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LayerPanel.xaml.cs">
+      <DependentUpon>LayerPanel.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -92,6 +99,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\arrow32_blue.png" />
+    <Resource Include="Icons\Eye_blue.png" />
+    <Resource Include="Icons\pencil32_blue.png" />
+    <Resource Include="Icons\stop32_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\cross.png" />
+    <Resource Include="Icons\hide app.png" />
+    <Resource Include="Icons\wide window.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\blocked.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

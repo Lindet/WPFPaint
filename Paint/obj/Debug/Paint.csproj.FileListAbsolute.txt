@@ -10,3 +10,20 @@ c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.
 c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.exe
 c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\Paint.pdb
+J:\Projects\WPFPaint\Paint\bin\Debug\Paint.exe.config
+J:\Projects\WPFPaint\Paint\obj\Debug\Paint.exe
+J:\Projects\WPFPaint\Paint\obj\Debug\Paint.pdb
+J:\Projects\WPFPaint\Paint\bin\Debug\Paint.exe
+J:\Projects\WPFPaint\Paint\bin\Debug\Paint.pdb
+J:\Projects\WPFPaint\Paint\obj\Debug\MainWindow.baml
+J:\Projects\WPFPaint\Paint\obj\Debug\MainWindow.g.cs
+J:\Projects\WPFPaint\Paint\obj\Debug\App.g.cs
+J:\Projects\WPFPaint\Paint\obj\Debug\Paint_MarkupCompile.cache
+J:\Projects\WPFPaint\Paint\obj\Debug\Paint.g.resources
+J:\Projects\WPFPaint\Paint\obj\Debug\Paint.Properties.Resources.resources
+J:\Projects\WPFPaint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+J:\Projects\WPFPaint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+J:\Projects\WPFPaint\Paint\obj\Debug\LayerPanel.baml
+J:\Projects\WPFPaint\Paint\obj\Debug\LayerPanel.g.cs
+J:\Projects\WPFPaint\Paint\obj\Debug\App.baml
+J:\Projects\WPFPaint\Paint\obj\Debug\Paint_MarkupCompile.lref

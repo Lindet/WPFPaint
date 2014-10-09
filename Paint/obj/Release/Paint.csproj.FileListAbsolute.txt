@@ -10,3 +10,15 @@ c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\Pain
 c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\Paint.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\Paint.exe
 c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Release\Paint.pdb
+J:\Projects\WPFPaint\Paint\bin\Release\Paint.exe.config
+J:\Projects\WPFPaint\Paint\obj\Release\Paint.exe
+J:\Projects\WPFPaint\Paint\obj\Release\Paint.pdb
+J:\Projects\WPFPaint\Paint\bin\Release\Paint.exe
+J:\Projects\WPFPaint\Paint\bin\Release\Paint.pdb
+J:\Projects\WPFPaint\Paint\obj\Release\MainWindow.baml
+J:\Projects\WPFPaint\Paint\obj\Release\MainWindow.g.cs
+J:\Projects\WPFPaint\Paint\obj\Release\App.g.cs
+J:\Projects\WPFPaint\Paint\obj\Release\Paint_MarkupCompile.cache
+J:\Projects\WPFPaint\Paint\obj\Release\Paint.g.resources
+J:\Projects\WPFPaint\Paint\obj\Release\Paint.Properties.Resources.resources
+J:\Projects\WPFPaint\Paint\obj\Release\Paint.csproj.GenerateResource.Cache

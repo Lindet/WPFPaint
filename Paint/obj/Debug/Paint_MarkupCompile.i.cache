@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\obj\Debug\
+J:\Projects\WPFPaint\Paint\obj\Debug\
 Paint
 none
 false
 DEBUG;TRACE
-c:\users\user\documents\visual studio 2012\Projects\Paint\Paint\App.xaml
-11151548125
+J:\Projects\WPFPaint\Paint\App.xaml
+21022361095
 
-91407655971
-12-1401562060
-MainWindow.xaml;
+10-1554376120
+12-608423490
+LayerPanel.xaml;MainWindow.xaml;
 
-False
+True
 
